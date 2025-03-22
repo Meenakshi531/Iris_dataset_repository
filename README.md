@@ -56,6 +56,20 @@ Confusion Matrix: Displays the true vs. predicted classifications.
 
 Feature Importance: Shows which features influence predictions the most.
 
+## How to Run the Project
+
+Clone the repository:
+
+git clone <https://github.com/Meenakshi531/Iris_dataset_repository>
+cd Iris_dataset_repository
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the Jupyter Notebook:
+jupyter notebook iris_dataset.ipynb
+
 ## Future Improvements
 Explore ensemble methods (e.g., XGBoost, LightGBM) for better performance.
 
